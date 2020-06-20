@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Diego Fernandes
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Analista de Planejamento e Orçamento
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Governo Federal
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Atuo atualemnte no Conselho Administrativo de Defesa Econômica.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- R
+- Análise de dados 
+- Econometria
+- Causalidade
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Mestrado em Economia
+    institution: Instituto Brasiliense de Direito Público - IDP
+    year: 2020
+  - course: Especialização em direito econômico e Defesa da Concorrencia
+    institution: Fundação Getúlio Vargas - FGV 
+    year: 2020
+  - course: Graduação em Ciências Econômicas
+    institution:Universidade de Brasilia -  UnB
+    year: 211
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
